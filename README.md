@@ -1,8 +1,8 @@
 # archi Daylight
 
 archi Daylight is daylight simulation software for Autodesk Revit from Archi Systems AS. It analyses daylight inside
-Revit and checks the results against TEK17, BFS 2024:8, BR18, BRE 209, EN 17037 and more. The current version is 27.2,
-for Revit 2027.
+Revit and checks the results against TEK17, BFS 2024:8, BR18, BRE 209, EN 17037 and more. The current version and the
+supported Revit versions are listed on the downloads page.
 
 **Product page:** https://goto.archi/archi-daylight
 
@@ -22,7 +22,7 @@ for Revit 2027.
 ## Get it
 
 - Product page and trial: https://goto.archi/archi-daylight
-- Downloads: https://goto.archi/downloads
+- Downloads (current version and supported Revit versions): https://goto.archi/downloads
 
 ## Support
 
